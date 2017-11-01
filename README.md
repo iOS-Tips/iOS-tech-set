@@ -36,7 +36,7 @@
 
 目录显示了最近一期内容，你也可以点击 [查看更多](https://github.com/southpeak/iOS-tech-set/blob/master/2017/catalog.md)
 
-[2017 年 01 月](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+[2017 年 10 月](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
 
 * [查找未国际化的文字](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
 * [Xcode 9.1对崩溃提示的改进](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
