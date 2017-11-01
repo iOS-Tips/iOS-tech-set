@@ -32,25 +32,21 @@
 <a href="https://weibo.com/u/5953150140"><img style="border-radius: 30px" src="https://tva4.sinaimg.cn/crop.8.0.1226.1226.180/006uSOiEjw8f9h4ihstq4j30yi0y2gnq.jpg" title="Lefe_x" width="60"/></a>  | [Lefe_x](https://weibo.com/u/5953150140)
 
 
-
-
-
-
 ## 内容
 
-目录显示了最近一期内容，你也可以点击 [查看更多]()
+目录显示了最近一期内容，你也可以点击 [查看更多](https://github.com/southpeak/iOS-tech-set/blob/master/2017/catalog.md)
 
 [2017 年 01 月](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
 
-* [查找未国际化的文字]()
-* [Xcode 9.1对崩溃提示的改进]()
-* [删除 iOS 项目中未使用的图片]()
-* [Dictionary的mapValue(_:)方法]()
-* [如何1秒找出国际化文件(en.lproj/Localizable.strings)语法错误]()
-* [如何找出国际化文件(xxxx.strings)中未国际化的文件]()
-* [Extract Function/Extract Method]()
-* [React Native中自定义iconfont图标库]()
-* [判断是否在主队列运行]()
+* [查找未国际化的文字](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [Xcode 9.1对崩溃提示的改进](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [删除 iOS 项目中未使用的图片](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [Dictionary的mapValue(_:)方法](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [如何1秒找出国际化文件(en.lproj/Localizable.strings)语法错误](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [如何找出国际化文件(xxxx.strings)中未国际化的文件](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [Extract Function/Extract Method](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [React Native中自定义iconfont图标库](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
+* [判断是否在主队列运行](https://github.com/southpeak/iOS-tech-set/blob/master/2017/10.md)
 
 ## 感谢
 
