@@ -27,9 +27,8 @@
 * 有责任感
 * 有较强的自学能力
 
- <a href="https://weibo.com/touristdiary"><img style="border-radius: 30px" src="https://tva1.sinaimg.cn/crop.1.0.1366.1366.180/c5ff030ejw8f5bbc70i61j212011yq80.jpg" title="南峰子_老驴" width="60"/></a> | [南峰子_老驴](https://weibo.com/touristdiary)
-------------- | -------------
-<a href="https://weibo.com/u/5953150140"><img style="border-radius: 30px" src="https://tva4.sinaimg.cn/crop.8.0.1226.1226.180/006uSOiEjw8f9h4ihstq4j30yi0y2gnq.jpg" title="Lefe_x" width="60"/></a>  | [Lefe_x](https://weibo.com/u/5953150140)
+ <a href="https://weibo.com/touristdiary"><img style="border-radius: 30px" src="https://tva1.sinaimg.cn/crop.1.0.1366.1366.180/c5ff030ejw8f5bbc70i61j212011yq80.jpg" title="南峰子_老驴" width="60"/></a> | [南峰子_老驴](https://weibo.com/touristdiary) | <a href="https://weibo.com/u/5953150140"><img style="border-radius: 30px" src="https://tva4.sinaimg.cn/crop.8.0.1226.1226.180/006uSOiEjw8f9h4ihstq4j30yi0y2gnq.jpg" title="Lefe_x" width="60"/></a> | [Lefe_x](https://weibo.com/u/5953150140)
+------------- | ------------- | ------------- | -------------
 
 
 ## 内容
