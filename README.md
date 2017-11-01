@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="http://upload-images.jianshu.io/upload_images/1664496-62b0ed1cb7393c6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" title="iOS知识小集" width="557"/>
+<img src="http://upload-images.jianshu.io/upload_images/1664496-c4a73cc056f8e52e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" title="iOS知识小集" width="557"/>
 
 </p>
 
